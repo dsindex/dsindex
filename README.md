@@ -27,10 +27,10 @@
    <img src="https://github-profile-trophy.vercel.app/?username=dsindex&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="Rajkumar Samra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsamra&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+<div align="center">
+    <p align="center">
+        <a href="https://github.com/rjsamra/github-readme-stats"><img alt="Rajkumar Samra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsamra&langs_count=10&layout=compact#" /></a>
+        <br/>
+        <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+    </p>
+</div>

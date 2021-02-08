@@ -11,8 +11,8 @@
 </div>
 
 - 🔭 ML/NLP engineer & researcher.
-- 🌱 working at Kakao Enterprise. previously at Kakao, Daum Corporation.
-- 🤔 interesting area: sequence/token classification, language model & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval.
+- 🌱 working at Kakao Enterprise. previously at Kakao, Daum Communication.
+- 🤔 interesting area: sequence/token classification, language modeling & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval and other NLP related fields.
 
 <br>
 

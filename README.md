@@ -5,8 +5,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 - 🔭 ML/NLP engineer & researcher.
-- 🌱 working on Kakao Enterprise. 
-- 🤔 interesting area: sequence/token classification, language model & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval 
+- 🌱 working at Kakao Enterprise. previously at Kakao, Daum Corporation.
+- 🤔 interesting area: sequence/token classification, language model & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval.
 
 <br>
 

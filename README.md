@@ -4,17 +4,19 @@
 
 <br>
 
+## About me
+
 <div align="center">
    <p align="center">
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
    </p>
 </div>
 
+<br>
+
 - 🔭 ML/NLP engineer & researcher.
 - 🌱 working at Kakao Enterprise. previously at Kakao, Daum Communication.
 - 🤔 interesting area: sequence/token classification, language modeling & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval and other NLP related fields.
-
-<br>
 
 <div align="center">
     <p align="center">
@@ -23,9 +25,15 @@
     </p>
 </div>
 
+<br>
+
+## Stats
+
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=dsindex&theme=flat&no-frame=true&margin-w=30" />
 </div>
+
+<br>
 
 <div align="center">
     <p align="center">

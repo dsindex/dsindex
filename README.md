@@ -6,13 +6,17 @@
 - 🌱 working at Kakao Enterprise. previously at Kakao, Daum Corporation.
 - 🤔 interesting area: sequence/token classification, language model & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval.
 
+<br>
 
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
     <p align="center">
         <a href="https://github.com/dsindex"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/dsindex?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
         <a href="https://github.com/dsindex"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
     </p>
+</div>
+
+<div align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 </div>
 
 <br>

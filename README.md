@@ -16,7 +16,9 @@
 </div>
 
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+   <p align="center">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+   </p>
 </div>
 
 <br>

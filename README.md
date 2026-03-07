@@ -20,16 +20,3 @@
 
 <br>
 
-## Stats
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=dsindex&theme=flat&no-frame=true&margin-w=30" />
-</div>
-
-<br>
-
-<div align="center">
-    <p align="center">
-        <a href="https://github.com/dsindex/github-readme-stats"><img alt="dsindex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsindex&langs_count=10&layout=compact#" /></a>
-    </p>
-</div>

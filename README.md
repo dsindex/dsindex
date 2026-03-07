@@ -6,22 +6,15 @@
 
 ## About me
 
-<div align="center">
-   <p align="center">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsindex&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-   </p>
-</div>
-
 <br>
 
-- 🔭 ML/NLP engineer & researcher.
-- 🌱 working at Kakao. previously at Kakao Brain, Kakao Enterprise, Kakao, Daum Communication.
-- 🤔 interesting area: sequence/token classification, language modeling & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval and other NLP related fields.
+- 🔭 NLP/LLM/AI engineer & researcher.
+- 🌱 at Kakao, Kakao Brain, Kakao Enterprise, Kakao, Daum Communication.
+- 🤔 interesting area: LLM, Agent, sequence/token classification, language modeling & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval and other NLP related fields.
 
 <div align="center">
     <p align="center">
         <a href="https://github.com/dsindex"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/dsindex?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-        <a href="https://github.com/dsindex"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
     </p>
 </div>
 

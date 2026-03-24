@@ -8,9 +8,10 @@
 
 <br>
 
-- 🔭 NLP/LLM/AI engineer & researcher.
-- 🌱 at Kakao, Kakao Brain, Kakao Enterprise, Kakao, Daum Communication.
-- 🤔 interesting area: LLM, Agent, sequence/token classification, language modeling & transfer learning, distillation & optimization, task-oriented dialog system, semantic retrieval and other NLP related fields.
+- ⚠️ Not actively maintaining this profile at the moment.
+- 🔭 Managing Director at Mirae Asset Securities, Tech & AI division.
+- 🌱 Previously Research Engineer at Kakao, Kakao Brain, Kakao Enterprise, Daum Communications — ~20 years in NLP/AI.
+- 🤔 Interests: LLM pre-training & post-training, Agent systems, guardrails & hallucination detection, financial domain AI, language modeling, transfer learning, distillation & optimization, task-oriented dialog, semantic retrieval, and other NLP-related fields.
 
 <div align="center">
     <p align="center">
